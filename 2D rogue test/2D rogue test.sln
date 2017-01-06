@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{63878045-E3EA-0031-B2E5-A92221307404}") = "2D rogue test", "Assembly-CSharp.csproj", "{310FCE17-DACC-6426-1F04-2F73167336FA}"
+EndProject
+Project("{63878045-E3EA-0031-B2E5-A92221307404}") = "2D rogue test", "Assembly-CSharp-Editor.csproj", "{A31C899D-92F3-3FC0-8604-72B42AA1F980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310FCE17-DACC-6426-1F04-2F73167336FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310FCE17-DACC-6426-1F04-2F73167336FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310FCE17-DACC-6426-1F04-2F73167336FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310FCE17-DACC-6426-1F04-2F73167336FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31C899D-92F3-3FC0-8604-72B42AA1F980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31C899D-92F3-3FC0-8604-72B42AA1F980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31C899D-92F3-3FC0-8604-72B42AA1F980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31C899D-92F3-3FC0-8604-72B42AA1F980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
